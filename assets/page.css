@@ -1,0 +1,23 @@
+body{
+	height:auto;
+	background-color: hsl(44, 100%, 50%);
+   
+}
+#main{
+	height: auto;
+    box-shadow: 17px 14px 26px 1px #151414;
+    background-image: linear-gradient(45deg, black, #ffbc00,black);
+     }
+
+.shade,select,input[type="date"]{
+	width:100%;
+	line-height: 40px;
+	border:0;
+	background-color: #ffbc00;
+ box-shadow: -2px -4px 8px -2px black inset;
+}
+button{
+	background-image:radial-gradient(#ffbc00,black);
+	border-radius: 2rem;
+}
+
